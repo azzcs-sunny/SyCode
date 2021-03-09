@@ -1,5 +1,5 @@
 PODS:
-  - SyCore (0.1.1)
+  - SyCore (0.1.3)
 
 DEPENDENCIES:
   - SyCore (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SyCore: d64efc600cc25cce8738d8ea24fb114e3f6c910e
+  SyCore: 6318fafae50d076a9d82e6e047ac81905d96a30b
 
 PODFILE CHECKSUM: 06fd323432586f361673f9c827f11f74281b8872
 
