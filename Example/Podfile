@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SyCore_Tests' do
+  pod 'SyCore', :path => '../'
+  
+  
+end
